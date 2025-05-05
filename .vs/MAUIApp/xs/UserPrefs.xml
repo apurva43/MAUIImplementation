@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E1B1D151-9763-42FD-8746-59C6FD9772CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAUIApp/Views/UserProfileView.xaml">
+    <Files>
+      <File FileName="MAUIApp/Views/UserProfileView.xaml" Line="30" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MAUIApp" expanded="True">
+            <Node name="MAUIApp">
+              <Node name="Converters" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MAUIApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
