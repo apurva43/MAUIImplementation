@@ -8,17 +8,17 @@
     Shell.FlyoutBehavior="Disabled"
     Title="MAUIApp">
 
-    <!--<ShellContent
+    <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />-->
+        Route="MainPage" />
         <!--<ShellContent
         Title="User Profile"
         ContentTemplate="{DataTemplate views:UserProfileView}"
         Route="UserProfileView" />-->
-        <ShellContent
+        <!-- <ShellContent
         Title="User Profile"
         ContentTemplate="{DataTemplate views:ChartView}"
-        Route="ChartView" />
+        Route="ChartView" /> -->
 </Shell>
 

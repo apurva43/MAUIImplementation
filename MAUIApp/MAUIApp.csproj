@@ -70,6 +70,7 @@
 		<PackageReference Include="Microcharts.Maui" Version="1.0.0" />
 		<PackageReference Include="Couchbase.Lite" Version="3.2.1" />
 		<PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="3.119.0" />
+		<PackageReference Include="Sentry.Maui" Version="5.6.0" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -24,6 +24,14 @@
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
 
+            <!-- 
+                Button Element:
+                - x:Name: "CounterBtn" - The unique name identifier for the button.
+                - Text: "Click me" - The text displayed on the button.
+                - SemanticProperties.Hint: "Counts the number of times you click" - Provides an accessibility hint for screen readers.
+                - Clicked: "OnCounterClicked" - Event handler triggered when the button is clicked.
+                - HorizontalOptions: "Fill" - Specifies that the button should fill the available horizontal space.
+            -->
             <Button
                 x:Name="CounterBtn"
                 Text="Click me" 

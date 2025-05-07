@@ -6,9 +6,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MAUIApp" expanded="True">
-            <Node name="MAUIApp">
-              <Node name="Converters" expanded="True" />
+          <Node name="MAUIApp">
+            <Node name="MAUIApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="UserProfileView.xaml" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
